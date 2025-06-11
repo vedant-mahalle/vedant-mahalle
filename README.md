@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Vedant Mahalle 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 MERN Expert | 🔧 Rust & C++ Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 MERN Expert | 🛠️ Adept in C++ & Rust · Rust Explorer · C++ Practitioner
+st</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Code.+Create.+Innovate.;Building+Scalable+Web+Apps;MERN+%7C+Next.js+%7C+Rust+%7C+IoT" alt="Typing SVG" />
@@ -50,7 +51,6 @@
 ---
 
 ---
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -72,6 +72,17 @@
 </div>
 
 ---
+
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
+  <a href="https://github.com/vedant-mahalle">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant-mahalle&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-mahalle&layout=compact&theme=graywhite&hide_border=true&langs_count=8" />
+  </a>
+  <br /><br />
+  <img src="https://github-profile-trophy.vercel.app/?username=vedant-mahalle&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+
 ## 🧠 Fun Fact
 
 > I believe in building things that **last**, perform like **beasts**, and look **gorgeous** doing it.
