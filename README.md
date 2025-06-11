@@ -9,43 +9,38 @@
 
 ## 🧠 About Me
 
-I'm a passionate **Full Stack Developer** skilled in building modern web applications using the **MERN stack** and beyond. With a strong foundation in **C++**, **Java**, and **Rust**, I enjoy solving complex problems and building scalable software.
-
-- 💻 Currently exploring: Rust 🦀 & AI integration in full-stack projects
-- 🎯 Interests: System Design, IoT Solutions, Open Source, Performance Optimization
-- 🌐 Building: Scalable web apps, AI tools, & real-time systems
+🎓 I’m a passionate **Full Stack Developer** experienced in building scalable apps using **MERN**, **Rust**, **C++**, and **Java**.  
+⚙️ I love combining elegant UI with powerful backend logic.  
+📦 Always learning, always shipping.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+</div>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
-<!-- GitHub Stats Cards -->
 <div align="center">
   <a href="https://github.com/vedant-mahalle">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant-mahalle&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
@@ -53,12 +48,12 @@ I'm a passionate **Full Stack Developer** skilled in building modern web applica
   </a>
 </div>
 
-<!-- GitHub Streak Stats -->
 <div align="center">
   <a href="https://github.com/vedant-mahalle">
     <img src="https://streak-stats.demolab.com?user=vedant-mahalle&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </div>
+---
 
 ---
 
@@ -83,13 +78,13 @@ I'm a passionate **Full Stack Developer** skilled in building modern web applica
 </div>
 
 ---
+## 🧠 Fun Fact
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/vedant-mahalle">
-    <img src="https://github-profile-trophy.vercel.app/?username=vedant-mahalle&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
+> I believe in building things that **last**, perform like **beasts**, and look **gorgeous** doing it.
 
 ---
+
+<!-- Optional visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedant-mahalle&label=Profile+Views&color=0e75b6&style=flat" alt="vedant-mahalle" />
+</p>
