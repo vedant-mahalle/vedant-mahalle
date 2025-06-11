@@ -47,12 +47,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-mahalle&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/vedant-mahalle">
-    <img src="https://streak-stats.demolab.com?user=vedant-mahalle&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-</div>
 ---
 
 ---
