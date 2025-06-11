@@ -29,7 +29,7 @@ st</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rust/rust-plain.svg" height="40"/>
+  <img src="https://www.svgrepo.com/show/374056/rust.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
@@ -72,12 +72,6 @@ st</h3>
 </div>
 
 ---
-
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
-  <a href="https://github.com/vedant-mahalle">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant-mahalle&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-mahalle&layout=compact&theme=graywhite&hide_border=true&langs_count=8" />
-  </a>
   <br /><br />
   <img src="https://github-profile-trophy.vercel.app/?username=vedant-mahalle&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
 </div>
