@@ -9,12 +9,11 @@
 
 ## 🧠 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building modern web applications using **JavaScript/TypeScript** ecosystems. My toolkit includes **React, Node.js, and MongoDB**, complemented by low-level programming skills in **Rust and C++**.
+I'm a passionate **Full Stack Developer** skilled in building modern web applications using the **MERN stack** and beyond. With a strong foundation in **C++**, **Java**, and **Rust**, I enjoy solving complex problems and building scalable software.
 
-- 🔭 Currently working on: AI-powered web applications
-- 🌱 Learning: Advanced system design & WebAssembly
-- 💡 Interests: IoT, Performance Optimization, Open Source
-- ⚡ Fun fact: I automate everything I can
+- 💻 Currently exploring: Rust 🦀 & AI integration in full-stack projects
+- 🎯 Interests: System Design, IoT Solutions, Open Source, Performance Optimization
+- 🌐 Building: Scalable web apps, AI tools, & real-time systems
 
 ---
 
@@ -94,7 +93,3 @@ I'm a passionate **Full Stack Developer** with expertise in building modern web 
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedant-mahalle&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
