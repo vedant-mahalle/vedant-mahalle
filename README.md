@@ -84,7 +84,3 @@
 
 ---
 
-<!-- Optional visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedant-mahalle&label=Profile+Views&color=0e75b6&style=flat" alt="vedant-mahalle" />
-</p>
