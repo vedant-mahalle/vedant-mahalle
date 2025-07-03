@@ -42,14 +42,18 @@ st</h3>
 ## 📊 GitHub Stats
 
 
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
+<p align="center">
+  <a href="https://github.com/vedant-mahalle">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-mahalle&theme=react&hide_border=true" alt="vedant-mahalle's GitHub streak" />
+  </a>
+</p>
 
-<a href="https://github.com/vedant-mahalle">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-mahalle&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-mahalle&layout=compact&theme=graywhite&hide_border=true&langs_count=8" />
-</a>
+<p align="center">
+  <a href="https://github.com/vedant-mahalle">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-mahalle&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
 
-</div>
 
 ---
 
