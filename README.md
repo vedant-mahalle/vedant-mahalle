@@ -41,12 +41,14 @@ st</h3>
 
 ## 📊 GitHub Stats
 
+
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
-  <a href="https://github.com/vedant-mahalle">
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant-mahalle&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" /> -->
-    ![vedant-mahalle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedant-mahalle&theme=react&hide_border=true)
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-mahalle&layout=compact&theme=graywhite&hide_border=true&langs_count=8" />
-  </a>
+
+<a href="https://github.com/vedant-mahalle">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-mahalle&theme=react&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-mahalle&layout=compact&theme=graywhite&hide_border=true&langs_count=8" />
+</a>
+
 </div>
 
 ---
